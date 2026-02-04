@@ -15,8 +15,6 @@ I am currently operating on a "Learn by Building" protocol.
 * **Focus:** Translating First Principles thinking into code.
 * **Latest Build:** https://myfocus-dashboard.netlify.app
 
-### 📈 My Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=brarprabh&show_icons=true&theme=radical)
 
 
 ---
