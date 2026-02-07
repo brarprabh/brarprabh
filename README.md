@@ -1,5 +1,5 @@
 
-**Role:** Computer Science Student (4th Semester)
+**Role:** Computer Science Student 
 **Objective:** Engineering Scalable Systems & Mastering Low-Level Logic.
 
 ---
