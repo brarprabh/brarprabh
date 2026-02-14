@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠 The Arsenal (Tech Stack)
+### 🛠Tech Stack
 * **Languages:** C++, JavaScript, HTML/CSS, MERN Stack
 * **Core:** Data Structures & Algorithms (DSA), Object-Oriented Design
 * **Systems:** Operating Systems, Memory Management
