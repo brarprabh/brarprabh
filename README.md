@@ -1,6 +1,6 @@
-# Hey, I'm Prabhjot Singh Brar 👋
+# Hey, I'm Prabhjot Singh 👋
 
-**CSE Student @ Thapar Institute** · Building production-grade systems across full-stack web, database engineering, and applied ML.
+**CSE Student @ Thapar Institute** · Building production-grade systems across full-stack web, database engineering, and AI.
 
 ---
 
