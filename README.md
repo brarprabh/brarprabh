@@ -27,7 +27,7 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [CodeCorps](https://github.com/brarprabh/CodeCorps) | MERN · Docker · Judge0 · JWT | LeetCode-style compiler platform with sandboxed Docker execution, Monaco Editor, and JWT auth |
+| [CodeCorps](https://github.com/brarprabh/Online-Compiler) | MERN · Docker · Judge0 · JWT | LeetCode-style compiler platform with sandboxed Docker execution, Monaco Editor, and JWT auth |
 | [MalariaNet React](https://github.com/brarprabh/MalariaNet-React) | PyTorch · FastAPI · React · Grad-CAM | Medical AI system — EfficientNet-B3 malaria cell classifier with Grad-CAM heatmaps and sensitivity-tuned thresholds |
 | [Agriculture Management System](https://github.com/brarprabh/Agriculture-Management-System) | React · Node.js · MySQL 8.0 | Full-stack platform with RBAC, stored procedures, cursors, triggers, UDFs, and a MySQL Event Scheduler |
 | [Delivery Delay Prediction](https://github.com/brarprabh/Delivery-Delay-Prediction) | XGBoost · LightGBM · scikit-learn | Cascade Classifier across 180K+ supply chain records with confidence-based "At Risk" inference |
