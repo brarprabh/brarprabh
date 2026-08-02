@@ -50,7 +50,7 @@ GPA: **9.76 / 10**
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhjot_Brar-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/prabhjot-brar-pb1177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhjot_Brar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-brar-pb1177/)
 [![Email](https://img.shields.io/badge/Email-prabhjotsinghbrar17@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prabhjotsinghbrar17@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-brarprabh-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/prabhbrar_17/)
 
