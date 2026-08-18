@@ -10,7 +10,7 @@
 `C++` `JavaScript (ES6+)` `Python` `SQL` `HTML/CSS`
 
 **Web & Backend**
-`React.js` `Node.js` `Express.js` `FastAPI` `REST APIs` `JWT` `Tailwind CSS` `MongoDB`
+`React.js` `Node.js` `Express.js` `REST APIs` `JWT` `Tailwind CSS` `MongoDB`
 
 **Databases**
 `MySQL 8.0` · Stored Procedures · Triggers · Views · UDFs · Transactions · Event Scheduler · `MongoDB Atlas`
